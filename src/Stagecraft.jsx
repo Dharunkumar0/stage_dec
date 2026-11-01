@@ -30,6 +30,7 @@ const CATEGORIES = [
 
 const starterAssets = [
   { id: 'curtain', name: 'Ivory Draped Backdrop', category: 'background', src: '/assets/curtain-stage.png' },
+  { id: 's2', name: 'Floral Ceremony Stage', category: 'background', src: '/photos/s2.jpg' },
   { id: 'sofa', name: 'Royal Love Seat', category: 'seating', src: '/assets/sofa-cutout.png' },
   { id: 'arch', name: 'Blush Floral Arch', category: 'decor', src: '/assets/big-flowers-cutout.png' },
   { id: 'flower', name: 'Rose Centrepiece', category: 'decor', src: '/assets/flower-removebg-preview.png' },
